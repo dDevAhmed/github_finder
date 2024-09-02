@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <p className='text-blue-500'>With DaisyUI</p>
       </header>
     </div>
   );
